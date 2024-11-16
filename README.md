@@ -31,7 +31,3 @@ This project aims to predict the outcomes of football matches (win, draw, or los
 
 ## 📈 Results
 The final model achieved a high accuracy in predicting match outcomes, with detailed evaluation metrics included in the notebook.
-
-## 📬 Contact
-Feel free to reach out for any questions or feedback regarding the project.
-
